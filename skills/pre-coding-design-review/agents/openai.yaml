@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pre-Coding Design Review"
+  short_description: "Compare options, risks, and checks before coding"
+  default_prompt: "Use $pre-coding-design-review to compare implementation options before changing code."

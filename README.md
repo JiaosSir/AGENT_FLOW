@@ -1,6 +1,6 @@
 # AGENT_FLOW
 
-A collection of Claude Code skills that encapsulate reusable engineering practices. Each skill is loaded on demand per conversation.
+A collection of Agent skills that encapsulate reusable engineering practices. Each skill is loaded on demand per conversation.
 
 ## Structure
 
@@ -21,13 +21,13 @@ AGENT_FLOW/
 
 ## Usage
 
-Invoke a skill in a Claude Code conversation:
+Invoke a skill in a Agent conversation:
 
 ```
 /<skill-name>
 ```
 
-Or describe your task directly — Claude Code auto-matches skills based on context.
+Or describe your task directly — Agent auto-matches skills based on context.
 
 ## Adding a New Skill
 
